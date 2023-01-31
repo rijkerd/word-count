@@ -22,7 +22,7 @@ mvn spring-boot:run
 ```
 
 ### Endpoint Testing
-Upon complete setup of the project the following endpoint will expose count for each word.
+When the project is fully set up, the following endpoint will reveal the count for each word.
 
 ```
 curl 0.0.0.0:8085/count/you
